@@ -12,7 +12,7 @@ w = QWidget()
 w.resize(320, 240)
  
 # Set window title  
-w.setWindowTitle("Hello World!")
+w.setWindowTitle("Git Easy")
  
 # Show window
 w.show()
